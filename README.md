@@ -234,8 +234,7 @@ The code is organized into the following main components:
 
 ## Author
 
-Deep Learning Assignment 2  
-FAST University
+M. Abdullah Nadeem
 
 ## License
 
